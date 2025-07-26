@@ -38,7 +38,6 @@ To do the analysis, you are expected to solve these questions:
 
 4) Create a correlation matrix of all the variables.                                              a) Which are the top 3 positively correlated pairs and
  b) Which are the top 3 negatively correlated pairs.
- Proprietary content. ©Great Learning. All Rights Reserved. Unauthorized use or distribution      prohibited
 
 5) Build an initial regression model with AVG_PRICE as ‘y’ (Dependent variable) and LSTAT variable as
 Independent Variable. Generate the residual plot.
