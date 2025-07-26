@@ -10,14 +10,16 @@ of a property.
 The agency has provided a dataset of 506 houses in Boston. Following are the details of the dataset:
 
 ## Data Dictionary:
-Attribute Description
-CRIME RATE per capita crime rate by town
-INDUSTRY proportion of non-retail business acres per town (in percentage terms)
-NOX nitric oxides concentration (parts per 10 million)
-AVG_ROOM average number of rooms per house
-AGE proportion of houses built prior to 1940 (in percentage terms)
-DISTANCE distance from highway (in miles)
-TAX full-value property-tax rate per $10,000
-PTRATIO pupil-teacher ratio by town
-LSTAT % lower status of the population
-AVG_PRICE Average value of houses in $1000's
+| Attribute   | Description                                                             |
+|-------------|-------------------------------------------------------------------------|
+| CRIME RATE | Per capita crime rate by town                                           |
+| INDUSTRY   | Proportion of non-retail business acres per town (percentage)           |
+| NOX        | Nitric oxides concentration (parts per 10 million)                      |
+| AVG_ROOM   | Average number of rooms per house                                       |
+| AGE        | Proportion of houses built before 1940 (percentage)                     |
+| DISTANCE   | Distance from employment centers/highways (in miles)                    |
+| TAX        | Full-value property-tax rate per $10,000                                |
+| PTRATIO    | Pupil-teacher ratio by town                                             |
+| LSTAT      | % of lower status population                                            |
+| AVG_PRICE  | Average value of homes in $1000's                                       |
+
