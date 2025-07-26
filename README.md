@@ -36,16 +36,17 @@ To do the analysis, you are expected to solve these questions:
 
 3) Compute the covariance matrix. Share your observations. 
 
-4) Create a correlation matrix of all the variables.                                              a) Which are the top 3 positively correlated pairs and
- b) Which are the top 3 negatively correlated pairs.
+4) Create a correlation matrix of all the variables.                                             
+a) Which are the top 3 positively correlated pairs and
+b) Which are the top 3 negatively correlated pairs.
 
-5) Build an initial regression model with AVG_PRICE as ‘y’ (Dependent variable) and LSTAT variable as
+6) Build an initial regression model with AVG_PRICE as ‘y’ (Dependent variable) and LSTAT variable as
 Independent Variable. Generate the residual plot.
 a) What do you infer from the Regression Summary output in terms of variance explained,
 coefficient value, Intercept, and the Residual plot?
 b) Is LSTAT variable significant for the analysis based on your model?
 
-6) Build a new Regression model including LSTAT and AVG_ROOM together as Independent variables
+7) Build a new Regression model including LSTAT and AVG_ROOM together as Independent variables
 and AVG_PRICE as dependent variable. 
 a) Write the Regression equation. If a new house in this locality has 7 rooms (on an average) and
 has a value of 20 for L-STAT, then what will be the value of AVG_PRICE? How does it compare
@@ -54,10 +55,10 @@ Undercharging?
 b) Is the performance of this model better than the previous model you built in Question 5?
 Compare in terms of adjusted R-square and explain.
 
-7) Build another Regression model with all variables where AVG_PRICE alone be the Dependent
+8) Build another Regression model with all variables where AVG_PRICE alone be the Dependent
 Variable and all the other variables are independent. Interpret the output in terms of adjusted Rsquare, coefficient and Intercept values. Explain the significance of each independent variable with respect to AVG_PRICE. 
 
-8) Pick out only the significant variables from the previous question. Make another instance of the Regression model using only the significant variables you just picked and answer the questions below: 
+9) Pick out only the significant variables from the previous question. Make another instance of the Regression model using only the significant variables you just picked and answer the questions below: 
 a) Interpret the output of this model.
 b) Compare the adjusted R-square value of this model with the model in the previous question,
 which model performs better according to the value of adjusted R-square?
