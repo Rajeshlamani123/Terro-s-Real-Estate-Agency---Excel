@@ -30,16 +30,15 @@ Your job, as an auditor, is to analyze the magnitude of each variable to which i
 
 To do the analysis, you are expected to solve these questions:
 
-1) Generate the summary statistics for each variable in the table. (Use Data analysis tool pack). Write down your observation.
+1) Generate the summary statistics for each variable in the table. Write down your observation.
 
 2) Plot a histogram of the Avg_Price variable. What do you infer? 
 
 3) Compute the covariance matrix. Share your observations. 
 
-4) Create a correlation matrix of all the variables. 
-a) Which are the top 3 positively correlated pairs and
-b) Which are the top 3 negatively correlated pairs.
-Proprietary content. ©Great Learning. All Rights Reserved. Unauthorized use or distribution prohibited
+4) Create a correlation matrix of all the variables.                                              a) Which are the top 3 positively correlated pairs and
+ b) Which are the top 3 negatively correlated pairs.
+ Proprietary content. ©Great Learning. All Rights Reserved. Unauthorized use or distribution      prohibited
 
 5) Build an initial regression model with AVG_PRICE as ‘y’ (Dependent variable) and LSTAT variable as
 Independent Variable. Generate the residual plot.
